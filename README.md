@@ -1,39 +1,10 @@
-# I'm Ozone  
-**( Blothunter • BugBounty • Cybersecurity )**
+<h1 align="center">Hi 👋, I'm Ozone ( blothunter , BugBounty , Cybersecurity)</h1>
+<h3 align="center">Passionate about cybersecurity, bug bounty hunting, and automation. I focus on **web exploitation**, **recon automation**, and building fast **PoC** tools with **Python**</h3>
 
-Passionate about cybersecurity, bug bounty hunting, and automation.  
-I focus on **web exploitation**, **recon automation**, and building fast **PoC** tools with **Python**.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@ozone_su_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozone_su_bot" height="30" width="40" /></a>
+</p>
 
----
-
-## 🔐 About
-- Web security researcher and bug bounty hunter  
-- Love turning noisy recon into actionable findings  
-- Proof-of-Concept first, then clean write-ups
-
----
-
-## 🧰 Tech & Tools
-- **OS:** Kali Linux, Ubuntu  
-- **Languages:** Python, Bash, JavaScript  
-- **Recon:** subfinder, gau, waybackurls, katana  
-- **Scanning:** nuclei, ffuf, gobuster  
-- **Automation:** requests, asyncio, aiohttp
-
----
-
-## 🚀 Featured Projects
-- **Ozone** — JavaScript analyzer & PoC generator  
-- **Firebase_Waf_Bypass** — automated idToken tests & WAF bypass trials  
-- **cloudflare_403_bypass** — header tricks for restricted resources
-
----
-
-## 📡 Contact
-- **Email:** Ozone_6@hotmail.com  
-- **Telegram:** https://t.me/Ozone_su_bot  
-- **Website:** https://zoro-v.github.io/Ozone/
-
----
-
-> If you want a more flashy header (glitch/animated), we can keep this clean README and put **all animations on your GitHub Pages site**. That keeps your profile stable (no errors) while your site handles the effects.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
