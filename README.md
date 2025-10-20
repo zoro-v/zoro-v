@@ -1,8 +1,3 @@
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@ozone_su_bot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozone_su_bot" height="30" width="40" /></a>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
