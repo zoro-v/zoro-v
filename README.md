@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ozone ( blothunter , BugBounty , Cybersecurity)</h1>
-<h3 align="center">Passionate about cybersecurity, bug bounty hunting, and automation. I focus on **web exploitation**, **recon automation**, and building fast **PoC** tools with **Python**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,25 +17,10 @@
 
 
 <h2 align="left">
-  Hi there
+  Hi there Hi 👋, I'm Ozone ( blothunter , BugBounty , Cybersecurity)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Researcher and aspiring Cybersecurity Specialist and Bug Hunter. With a strong passion for technology and expertise in malware analysis, vulnerability assessment and bug hunting, my goal is to safeguard digital assets and contribute to a more secure online community.
-
-
-<details>
-  <summary>More about me</summary>
-
-- **Name**: Coffin
-- **From**: Moscow (Russia)
-- **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in **Cracking**,**Reverse Engineering**,**Malware Analysis**,**Social engineering**,**Detective**
-- Improving knowledge in **Webapp Vulnerabilities**
-- Lifelong learner — always exploring **everything**
-- Reach me out at **coffinxp7@proton.me**
-
-</details>
 <br>
 
 ---
@@ -46,9 +29,6 @@ I'm **[`Lostsec`](https://www.youtube.com/@lostsecc)**, a hacker & Security Rese
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
 
-👉 Still Learning Bug hunting & malware forensics.
-
-👉 Managing Tech Communities & Content creator.
 
 👉 Writing Some Useful Tools For Myself & Communities
 
