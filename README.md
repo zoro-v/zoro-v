@@ -28,18 +28,6 @@
 <h2 id="present_status"> Present Status </h3>
 
 <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
-
-
-👉 Writing Some Useful Tools For Myself & Communities
-
-👉 Building & Contributing To Open Source Projects
-
-👉 Currently Learning mobile pentesting & web3 
-
-`Updating:`  Journey to Cybersecurity Specialist.
-
----
-
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
@@ -61,8 +49,6 @@
       <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
       <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
       <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
@@ -82,17 +68,7 @@
 
 <br><br>
 
-
-
 <h2 id="donate" align=''> Support⚡️</h2>
-
-<details>
-<summary>when you fall, we rise</summary>
-
-</details>
-
-
-
 
 <p align="center">
   <b><i>"no system is safe"</i></b>
