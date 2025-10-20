@@ -12,7 +12,7 @@
 
 
 <h2 align="left">
-  Hi there Hi 👋, I'm Ozone ( blothunter , BugBounty , Cybersecurity)
+👋, I'm Ozone ( blothunter , BugBounty , Cybersecurity)
 </h2>
 
 <br>
