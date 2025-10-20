@@ -18,7 +18,6 @@
 
 <h2 align="left">
   Hi there Hi 👋, I'm Ozone ( blothunter , BugBounty , Cybersecurity)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
 <br>
