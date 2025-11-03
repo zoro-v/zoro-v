@@ -15,8 +15,8 @@
 </h2>
 
 <br>
-<herf>https://zoro-v.github.io/Ozone/</herf>
----
+<a href="https://zoro-v.github.io/Ozone/" target="_blank">my website</a>
+
 
 <h2 id="present_status"> Present Status </h3>
 
