@@ -10,7 +10,7 @@
 
 
 <h2 align="left">
-👋,<h1> I'm Ozone </h1>( BugBounty , Cybersecurity , Red Teaming)
+👋,<h1> I'm Ozone </h1> <h1>( BugBounty , Cybersecurity , Red Teaming) </h1>
 </h2>
 
 <br>
