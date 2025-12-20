@@ -73,20 +73,6 @@
 ## 🖥️ System Terminal Status
 ---
 
----
-
-<div align="center">
-  
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=60&section=header&text=%E2%9A%A0%EF%B8%8F%20SYSTEM%20BREACH%20IN%20PROGRESS%20%E2%9A%A0%EF%B8%8F&fontSize=30&fontColor=22F700&animation=twinkling" width="100%">
-
-  <br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=200&color=22F700&center=true&vCenter=true&width=800&height=150&lines=%3E+nmap+-sC+-sV+192.168.1.105...;%3E+Exploiting+vulnerability+CVE-2024-001;%3E+Payload+injected+successfully;%3E+Opening+Reverse+Shell+on+port+4444...;%3E+Login+as+root%40ozone%3A+GRANTED;%3E+Stealing+keys...;%3E+Mission+Complete." alt="Terminal Hack">
-
-  <br>
-
----
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=70&section=header&text=%E2%96%93%E2%96%92%E2%96%91%20OZONE%20CORE%20SYSTEM%20%E2%96%91%E2%96%92%E2%96%93&fontSize=35&fontColor=22F700&animation=twinkling" width="100%">
