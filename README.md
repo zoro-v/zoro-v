@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=distort&color=auto&height=120&section=header&text=OZONE%20OPERATIONS&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%">
   
   <br>
@@ -54,20 +54,20 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
-      <img src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white" />
-      <img src="https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff" />
-      <img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" />
+      <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white" />
+      <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=fff" />
+      <img src="https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff" />
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
 ---
