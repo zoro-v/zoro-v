@@ -68,5 +68,5 @@
 
 <p align="center">
   <b><i>"No system is safe"</i></b><br>
-  <img src="https://i.imgur.com/1ToWEWw.png" width="200">
+  <img src="https://github.com/user-attachments/assets/15240f4d-26c1-4226-a758-c2d38f71a6ae" width="100%">
 </p>
