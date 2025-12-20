@@ -3,24 +3,23 @@
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&height=80&width=600&lines=Hi!+I+am+Ozone;Welcome+to+my+profile!;No+System+is+Safe..." alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&height=80&width=600&lines=Hi!+I+am+Ozone;Welcome+to+my+profile!;No+System+is+Safe..." alt="Title" width="100%">
 </div>
 
 ---
 
-<table border="0" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%" align="left">
-      <br>
-      <h1 style="font-size: 55px; margin-bottom: 10px;">👋, I'm <span style="color:#FF3B3F;">Ozone</span></h1>
-      <h2 style="font-size: 32px; font-weight: bold;">( <span style="color:#22F700;">BugBounty</span> , <span style="color:#38C2FF;">Cybersecurity</span> , <span style="color:#FFD700;">Red Teaming</span> )</h2>
+    <td width="60%" align="left" valign="middle">
+      <h1 style="font-size: 5vw; margin-bottom: 5px; display: block;">👋, I'm <span style="color:#FF3B3F;">Ozone</span></h1>
+      <h2 style="font-size: 2.5vw; font-weight: bold;">( <span style="color:#22F700;">BugBounty</span> , <span style="color:#38C2FF;">Cybersecurity</span> , <span style="color:#FFD700;">Red Teaming</span> )</h2>
       <br>
       <a href="https://zoro-v.github.io/Ozone/" target="_blank">
-        <img src="https://img.shields.io/badge/SEND_TO_ME-FF3B3F?style=for-the-badge&logo=maildotru&logoColor=white" height="40"/>
+        <img src="https://img.shields.io/badge/SEND_TO_ME-FF3B3F?style=for-the-badge&logo=maildotru&logoColor=white" height="35"/>
       </a>
     </td>
-    <td width="40%" align="right">
-      <img src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" width="380">
+    <td width="40%" align="right" valign="middle">
+      <img src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" width="90%" style="display: block; outline: none; border: none;">
     </td>
   </tr>
 </table>
@@ -37,7 +36,7 @@
       <img src="https://streak-stats.demolab.com?user=coffinxp&theme=tokyonight&hide_border=false" width="100%" />
     </td>
     <td width="45%" align="center">
-       <img src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" width="85%">
+       <img src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" width="80%">
        <br>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=tokyonight&hide_border=false" width="90%" />
     </td>
@@ -48,7 +47,7 @@
 
 <h2 id="knowledge_skills" style="color: #22F700;"> 🛠 Knowledge & Skills </h2>
 
-<div align="center" style="border: 2px solid #22F700; border-radius: 15px; padding: 25px; background-color: #0d1117;">
+<div align="center" style="border: 2px solid #22F700; border-radius: 15px; padding: 20px; background-color: #0d1117;">
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
       <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&logoColor=white" />
@@ -61,7 +60,7 @@
 
 <h2 style="color: #FFD700;"> 🎮 Snake Activity Zone </h2>
 <p align="center">
-  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
 </p>
 
 ---
@@ -70,11 +69,11 @@
 
 <h2 style="color: #FF3B3F; font-family: monospace;">🖥️ SYSTEM_TERMINAL_CORE</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=200&color=22F700&center=true&vCenter=true&width=900&height=120&lines=%3E+INITIALIZING+OZONE+OS...;%3E+SCANNING+VIRTUAL+PORT+8080...;%5B!%5D+VULNERABILITY+FOUND!;%3E+ACCESS+GRANTED;%3E+MISSION+ACCOMPLISHED." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=200&color=22F700&center=true&vCenter=true&width=900&height=120&lines=%3E+INITIALIZING+OZONE+OS...;%3E+SCANNING+VIRTUAL+PORT+8080...;%5B!%5D+VULNERABILITY+FOUND!;%3E+ACCESS+GRANTED;%3E+MISSION+ACCOMPLISHED." width="100%" />
 
 <br>
 
-<pre style="background: transparent; border: none; color: #38C2FF; font-family: monospace; font-weight: bold; line-height: 1.2; font-size: 16px;">
+<pre style="background: transparent; border: none; color: #38C2FF; font-family: monospace; font-weight: bold; line-height: 1.2; font-size: 1.5vw;">
  ██████  ███████  ██████  ███    ██ ███████ 
 ██    ██    ███  ██    ██ ████   ██ ██      
 ██    ██   ███   ██    ██ ██ ██  ██ █████   
@@ -86,7 +85,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=38C2FF&center=true&vCenter=true&width=600&height=50&lines=%E2%80%94%E2%80%94%E2%80%94+OZONE+ENTITY+TERMINAL+ACTIVE+%E2%80%94%E2%80%94%E2%80%94" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=38C2FF&center=true&vCenter=true&width=600&height=50&lines=%E2%80%94%E2%80%94%E2%80%94+OZONE+ENTITY+TERMINAL+ACTIVE+%E2%80%94%E2%80%94%E2%80%94" width="100%" />
 
 <br>
 
