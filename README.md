@@ -68,7 +68,21 @@
 
 ---
 
+---
+
+## 🖥️ System Terminal Status
 <div align="center">
-  <h2 style="color: #22F700; font-family: monospace;">[!] "No system is safe"</h2>
-  <img src="https://github.com/user-attachments/assets/15240f4d-26c1-4226-a758-c2d38f71a6ae" width="100%" width="100%" style="border: 2px solid #22F700; border-radius: 10px;">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=DECRYPTING%20SYSTEM...&fontSize=50&fontColor=22F700&animation=twinkling" width="100%">
+
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=22F700&size=25&center=true&vCenter=true&width=800&height=150&lines=root@ozone:~#+nmap+-sV+target_system;Scanning+ports...+[DONE];Vulnerability+Found:+CVE-2024-XXXX;Exploiting+System...+100%25;ACCESS+GRANTED;No+System+is+Safe..." alt="Hacker Terminal">
+
+  <br>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="100%" style="border: 1px solid #22F700; border-radius: 5px;">
+
+  <br><br>
+
+  <h3 style="color: #22F700; font-family: monospace;"> [!] STATUS: OPERATIONAL </h3>
 </div>
