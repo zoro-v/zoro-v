@@ -62,14 +62,22 @@
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-## 🖥️ System Terminal Status
----
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=%E2%9A%A0%EF%B8%8F%20OZONE%20SYSTEM%20OVERRIDE%20%E2%9A%A0%EF%B8%8F&fontSize=45&fontColor=22F700&animation=twinkling" width="100%">
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=150&color=22F700&center=true&vCenter=true&width=900&height=150&lines=%5B%E2%9C%93%5D+Establishing+Secure+Connection...;%5B!%5D+Bypassing+Firewall+Protocols...;%3E+Executing+Kernel+Exploit...;%3E+Extracting+Admin+Privileges...;%5B+%5D+ROOT_ACCESS_GRANTED;%5B!%5D+CLEANING+SYSTEM+LOGS...;%3E+Mission+Complete.+No+System+is+Safe." alt="Hacker Terminal">
-  <br>
-  <img src="https://raw.githubusercontent.com/K-S-R-K/K-S-R-K/master/icons/matrix.gif" width="100%" height="200" style="border: 2px solid #22F700; border-radius: 10px;">
-  <br><br>
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=60&section=footer&text=ANONYMOUS%20ENTITY%20-%20OZONE&fontSize=25&fontColor=22F700&animation=fadeIn" width="100%">
+## 🖥️ SYSTEM_TERMINAL_CORE
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=200&color=22F700&center=true&vCenter=true&width=900&height=180&lines=%3E+INITIALIZING+OZONE+OS...;%3E+SCANNING+VIRTUAL+PORT+8080...;%3E+EXPLOITING+REMOTE+KERNEL...;%3E+ROOT_ACCESS%3A+GRANTED;%3E+DOWNLOADING+ENCRYPTED_DATA...;%3E+BYPASSING+FIREWALL+LOGS...;%3E+CLEANING+SYSTEM+TRACES...;%3E+MISSION+ACCOMPLISHED." />
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=18&color=38C2FF&center=true&vCenter=true&width=900&height=100&lines=01011010+01001111+01001110+01000101;AF+89+2C+D1+EE+90+B2+C4+77+F2;SYSTEM_BREACH_DETECTED_IN_CORE_01;RE-ROUTING_ENCRYPTION_CHANNELS..." />
+<br>
+<pre style="background: transparent; border: none; color: #22F700; font-family: monospace; font-weight: bold; line-height: 1.2;">
+   _  _   _____    _____  _   _   _____ 
+  | \| | /  _  \  /  ___|| \ | | |  ___|
+  |  \ | | | | |  | |___ |  \| | | |__  
+  | | \ | | | | |  \___ \| | \ | |  __| 
+  | |  \| | |_| |   ___| | |  \| | |___ 
+  |_|   \ \_____/  |_____/|_|   \ \____|
+                                        
+   [ N O   S Y S T E M   I S   S A F E ]
+</pre>
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=22F700&center=true&vCenter=true&width=600&height=50&lines=%E2%80%94%E2%80%94%E2%80%94+OZONE+ENTITY+TERMINAL+ACTIVE+%E2%80%94%E2%80%94%E2%80%94" />
 </div>
