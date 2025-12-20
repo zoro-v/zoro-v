@@ -73,36 +73,32 @@
 ## 🖥️ System Terminal Status
 ---
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=000000&height=100&section=header&text=CRITICAL%20SYSTEM%20OVERRIDE&fontSize=45&fontColor=22F700" width="100%">
+  
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=60&section=header&text=%E2%9A%A0%EF%B8%8F%20SYSTEM%20BREACH%20IN%20PROGRESS%20%E2%9A%A0%EF%B8%8F&fontSize=30&fontColor=22F700&animation=twinkling" width="100%">
 
   <br>
 
-  <table border="0" width="100%" bgcolor="#000000">
-    <tr>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=22F700&center=false&vCenter=false&width=500&lines=root@ozone%3A~%23+ssh+admin%40global_server;Attempting+Exploit...+[OK];Bypassing+Firewall...+Done;Extracting+Database...+64%25;System+Compromised!;Searching+for+Backdoors...;Cleaning+Logs...;Identity%3A+ANONYMOUS" alt="Hacking Process">
-      </td>
-      <td align="right">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="120">
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=200&color=22F700&center=true&vCenter=true&width=800&height=150&lines=%3E+nmap+-sC+-sV+192.168.1.105...;%3E+Exploiting+vulnerability+CVE-2024-001;%3E+Payload+injected+successfully;%3E+Opening+Reverse+Shell+on+port+4444...;%3E+Login+as+root%40ozone%3A+GRANTED;%3E+Stealing+keys...;%3E+Mission+Complete." alt="Terminal Hack">
 
-  <img src="https://raw.githubusercontent.com/Kira-7/Kira-7/master/assets/matrix.gif" width="100%" height="150" style="border-top: 2px solid #22F700; border-bottom: 2px solid #22F700;">
+  <br>
 
-  <br><br>
+  <img src="https://raw.githubusercontent.com/K-S-R-K/K-S-R-K/master/icons/matrix.gif" width="100%" height="120" style="border-top: 2px solid #22F700; border-bottom: 2px solid #22F700;">
 
-  <img src="https://komarev.com/ghpvc/?username=Ozone-User&label=SYSTEM%20ACCESSES&color=22f700&style=flat-square" alt="Visitor Counter">
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=60&section=footer&text=%5B%20O%20Z%20O%20N%20E%20%20E%20N%20T%20I%20T%20Y%20%5D&fontSize=25&fontColor=22F700&animation=fadeIn" width="100%">
 </div>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="100%" style="border: 1px solid #22F700; border-radius: 5px;">
+### 💀 Zero-Day Exploit Script
+```python
+import sys, socket
 
-  <br><br>
+def pwn_system(ip, port):
+    payload = b"GET / HTTP/1.1\r\nHost: " + b"A"*512 + b"\r\n\r\n"
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.connect((ip, port))
+        s.sendall(payload)
+        print(f"[!] Payload Delivered to {ip}:{port}")
 
-  <h3 style="color: #22F700; font-family: monospace;"> [!] STATUS: OPERATIONAL </h3>
-</div>
+# Ozone Terminal Active
+pwn_system("TARGET_IP", 80)
