@@ -85,20 +85,22 @@
 
   <br>
 
-  <img src="https://raw.githubusercontent.com/K-S-R-K/K-S-R-K/master/icons/matrix.gif" width="100%" height="120" style="border-top: 2px solid #22F700; border-bottom: 2px solid #22F700;">
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=70&section=header&text=%E2%96%93%E2%96%92%E2%96%91%20OZONE%20CORE%20SYSTEM%20%E2%96%91%E2%96%92%E2%96%93&fontSize=35&fontColor=22F700&animation=twinkling" width="100%">
+
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=100&color=22F700&center=true&vCenter=true&width=900&height=250&lines=%5B*%5D+Initializing+Ozone+Terminal...;%5B!%5D+Scanning+Network+for+Vulnerabilities...;%3E+Target%3A+Global_Subnet_01;%3E+Exploit+Payload+Delivered!;%5B+%5D+Bypassing+Firewall...DONE;%3E+Decrypting+Hash+Files...99%25;%5B+%5D+ACCESS+GRANTED;%5B!%5D+Downloading+Database...;%5B*%5D+Exfiltrating+Data_Packets...;%3E+Cleaning+System+Logs...;%3E+Connection+Terminated.+Goodbye." alt="Terminal Hack">
+
+  <br>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif" width="100%" height="150" style="border: 2px solid #22F700; border-radius: 10px;">
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=NO%20SYSTEM%20IS%20SAFE&fontSize=40&fontColor=22F700&animation=fadeIn" width="100%">
 
 </div>
-
-### 💀 Zero-Day Exploit Script
-```python
-import sys, socket
-
-def pwn_system(ip, port):
-    payload = b"GET / HTTP/1.1\r\nHost: " + b"A"*512 + b"\r\n\r\n"
-    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-        s.connect((ip, port))
-        s.sendall(payload)
-        print(f"[!] Payload Delivered to {ip}:{port}")
-
-# Ozone Terminal Active
-pwn_system("TARGET_IP", 80)
