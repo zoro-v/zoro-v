@@ -1,8 +1,4 @@
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=distort&color=auto&height=120&section=header&text=OZONE%20OPERATIONS&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%">
-  
-  <br>
-
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&height=80&width=600&lines=Hi!+I+am+Ozone;Welcome+to+my+profile!;No+System+is+Safe..." alt="Title" width="100%">
 </div>
 
@@ -100,9 +96,5 @@
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=38C2FF&center=true&vCenter=true&width=600&height=50&lines=%E2%80%94%E2%80%94%E2%80%94+OZONE+ENTITY+TERMINAL+ACTIVE+%E2%80%94%E2%80%94%E2%80%94" width="100%" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=50&section=footer&text=SESSION%20ACTIVE&fontSize=20&fontColor=22F700" width="100%">
 
 </div>
