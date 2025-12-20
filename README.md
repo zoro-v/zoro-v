@@ -3,23 +3,24 @@
   
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&height=80&width=600&lines=Hi!+I'm+Ozone;Welcome+to+my+profile!;No+System+is+Safe..." alt="Title">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&height=80&width=600&lines=Hi!+I+am+Ozone;Welcome+to+my+profile!;No+System+is+Safe..." alt="Title">
 </div>
 
 ---
 
 <table border="0" width="100%">
   <tr>
-    <td width="70%" align="left">
-      👋, <h1 style="display: inline;">I'm <span style="color:#FF3B3F;">Ozone</span></h1>
-      <h2>( <span style="color:#22F700;">BugBounty</span> , <span style="color:#38C2FF;">Cybersecurity</span> , <span style="color:#FFD700;">Red Teaming</span> )</h2>
+    <td width="60%" align="left">
+      <br>
+      <h1 style="font-size: 55px; margin-bottom: 10px;">👋, I'm <span style="color:#FF3B3F;">Ozone</span></h1>
+      <h2 style="font-size: 32px; font-weight: bold;">( <span style="color:#22F700;">BugBounty</span> , <span style="color:#38C2FF;">Cybersecurity</span> , <span style="color:#FFD700;">Red Teaming</span> )</h2>
       <br>
       <a href="https://zoro-v.github.io/Ozone/" target="_blank">
-        <img src="https://img.shields.io/badge/SEND_TO_ME-FF3B3F?style=for-the-badge&logo=maildotru&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEND_TO_ME-FF3B3F?style=for-the-badge&logo=maildotru&logoColor=white" height="40"/>
       </a>
     </td>
-    <td width="30%" align="right">
-      <img src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" width="180" style="border-radius: 20px; border: 3px solid #38C2FF; box-shadow: 0 0 20px #FF3B3F;">
+    <td width="40%" align="right">
+      <img src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" width="380">
     </td>
   </tr>
 </table>
