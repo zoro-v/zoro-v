@@ -69,15 +69,6 @@
 ---
 
 <div align="center">
-  <h2 style="color: #22F700; font-family: 'Courier New', Courier, monospace; letter-spacing: 3px;">
-    [!] NO SYSTEM IS SAFE
-  </h2>
-  
-  <br>
-
-  <img src="https://github.com/user-attachments/assets/15240f4d-26c1-4226-a758-c2d38f71a6ae" width="100%" style="border: 2px solid #22F700; border-radius: 15px; box-shadow: 0 0 20px #22F700;">
-
-  <br><br>
-
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=50&section=footer&text=%E2%90%A3%20OZONE%20TERMINAL%20ACTIVE%20%E2%90%A3&fontSize=20&fontColor=22F700" width="100%">
+  <h2 style="color: #22F700; font-family: monospace;">[!] "No system is safe"</h2>
+  <img src="https://github.com/user-attachments/assets/15240f4d-26c1-4226-a758-c2d38f71a6ae" width="100%" width="100%" style="border: 2px solid #22F700; border-radius: 10px;">
 </div>
