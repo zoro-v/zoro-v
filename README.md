@@ -63,12 +63,13 @@
 </p>
 
 ## 🖥️ System Terminal Status
+---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=100&section=header&text=%E2%96%90%20OZONE%20SYSTEM%20OVERRIDE%20%E2%96%8F&fontSize=45&fontColor=22F700&animation=twinkling" width="100%">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=header&text=%E2%9A%A0%EF%B8%8F%20OZONE%20SYSTEM%20OVERRIDE%20%E2%9A%A0%EF%B8%8F&fontSize=45&fontColor=22F700&animation=twinkling" width="100%">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=150&color=22F700&center=true&vCenter=true&width=900&height=150&lines=%5B%E2%9C%93%5D+Global+Proxy+Established;%5B!%5D+Scanning+Port+8080...+[OPEN];%3E+Executing+Remote+Code...;%3E+Decrypting+AES-256+Payload...;%5B+%5D+ROOT_SHELL_ACTIVE;%5B!%5D+DELETING+EVIDENCE...;%3E+System+Compromised+Successfully." alt="Terminal Hack">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=150&color=22F700&center=true&vCenter=true&width=900&height=150&lines=%5B%E2%9C%93%5D+Establishing+Secure+Connection...;%5B!%5D+Bypassing+Firewall+Protocols...;%3E+Executing+Kernel+Exploit...;%3E+Extracting+Admin+Privileges...;%5B+%5D+ROOT_ACCESS_GRANTED;%5B!%5D+CLEANING+SYSTEM+LOGS...;%3E+Mission+Complete.+No+System+is+Safe." alt="Hacker Terminal">
   <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5eXN2bXJ1eXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7vGS1UjXj2/giphy.gif" width="100%" height="200" style="border: 1px solid #22F700; border-radius: 5px; box-shadow: 0 0 15px #22F700;">
+  <img src="https://raw.githubusercontent.com/K-S-R-K/K-S-R-K/master/icons/matrix.gif" width="100%" height="200" style="border: 2px solid #22F700; border-radius: 10px;">
   <br><br>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=50&section=footer&text=NO%20SYSTEM%20IS%20SAFE&fontSize=25&fontColor=22F700" width="100%">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=60&section=footer&text=ANONYMOUS%20ENTITY%20-%20OZONE&fontSize=25&fontColor=22F700&animation=fadeIn" width="100%">
 </div>
