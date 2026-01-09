@@ -2,14 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&height=80&width=600&lines=Hi!+I+am+Ozone;Welcome+to+my+profile!;No+System+is+Safe..." alt="Title" width="100%">
 </div>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="center">
-      <img src="352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif" width="48%" />
-      <img src="382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif" width="48%" />
-    </td>
-  </tr>
-</table>
+<h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="352050706-9c826dd0-fd72-49ba-af60-e79f64344f59.gif" style="max-width: 480px; width: 100%; height: auto; flex: 1; min-width: 300px;">
+  <img src="382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif" style="max-width: 480px; width: 100%; height: auto; flex: 1; min-width: 300px;">
+</div>
 
 <h2 id="knowledge_skills" style="color: #22F700;"> 🛠 Knowledge & Skills </h2>
 
