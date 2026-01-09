@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=38C2FF&size=45&center=true&vCenter=true&height=80&width=600&lines=Hi!+I+am+Ozone;Welcome+to+my+profile!;No+System+is+Safe..." alt="Title" width="100%">
 </div>
 
-<h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
-
-<h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
-
 <table border="0" width="100%">
   <tr>
     <td align="center">
