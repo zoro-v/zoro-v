@@ -21,24 +21,21 @@
 </table>
 
 ---
-
 <h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
-
 <table border="0" width="100%">
   <tr>
     <td width="55%">
       <img src="https://github-readme-stats.vercel.app/api?username=coffinxp&theme=tokyonight&hide_border=false&show_icons=true" width="100%" />
       <br>
-      <img src="https://streak-stats.demolab.com?user=coffinxp&theme=tokyonight&hide_border=false" width="100%" />
-    </td>
+      </td>
     <td width="45%" align="center">
-       <img src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59" width="80%">
-       <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=tokyonight&hide_border=false" width="90%" />
+        <img src="https://simpleicons.org/icons/matrix.svg" width="60" height="60" style="filter: invert(58%) sepia(93%) saturate(345%) hue-rotate(156deg) brightness(101%) contrast(101%);">
+        <br>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=tokyonight&hide_border=false" width="90%" />
     </td>
   </tr>
 </table>
-
 ---
 
 <h2 id="knowledge_skills" style="color: #22F700;"> 🛠 Knowledge & Skills </h2>
