@@ -3,22 +3,9 @@
 </div>
 
 <h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
+---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=coffinxp&theme=tokyonight&hide_border=false&show_icons=true" width="100%" />
-      <br>
-      <img src="https://streak-stats.demolab.com?user=coffinxp&theme=tokyonight&hide_border=false" width="100%" />
-    </td>
-   <td width="45%" align="center">
-        <img src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif" width="46%">
-        <img src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif" width="46%">
-        <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=tokyonight&hide_border=false" width="90%" />
-    </td>
-  </tr>
-</table>
+---
 
 <h2 id="knowledge_skills" style="color: #22F700;"> 🛠 Knowledge & Skills </h2>
 
