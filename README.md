@@ -19,15 +19,16 @@
 </table>
 ---
 <h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
+
 <table border="0" width="100%">
   <tr>
     <td width="55%">
       <img src="https://github-readme-stats.vercel.app/api?username=coffinxp&theme=tokyonight&hide_border=false&show_icons=true" width="100%" />
       <br>
-      </td>
+      <img src="https://streak-stats.demolab.com?user=coffinxp&theme=tokyonight&hide_border=false" width="100%" />
+    </td>
     <td width="45%" align="center">
-        <img src="https://simpleicons.org/icons/matrix.svg" width="60" height="60" style="filter: invert(58%) sepia(93%) saturate(345%) hue-rotate(156deg) brightness(101%) contrast(101%);">
-        <br>
+        <img src="https://private-user-images.githubusercontent.com/95265895/382468506-e78e13fd-8c84-4c21-9471-79d5374d4a15.gif" width="80%">
         <br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=tokyonight&hide_border=false" width="90%" />
     </td>
