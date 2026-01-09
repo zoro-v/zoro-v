@@ -3,23 +3,20 @@
 </div>
 
 ---
-
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
+<table border="0" width="100%">
   <tr>
-    <td width="60%" align="left" valign="middle">
-      <h1 style="font-size: 5vw; margin-bottom: 5px; display: block;">👋, I'm <span style="color:#FF3B3F;">Ozone</span></h1>
-      <h2 style="font-size: 2.5vw; font-weight: bold;">( <span style="color:#22F700;">BugBounty</span> , <span style="color:#38C2FF;">Cybersecurity</span> , <span style="color:#FFD700;">Red Teaming</span> )</h2>
+    <td width="55%">
+      <img src="https://github-readme-stats.vercel.app/api?username=coffinxp&theme=tokyonight&hide_border=false&show_icons=true" width="100%" />
       <br>
-      <a href="https://zoro-v.github.io/Ozone/" target="_blank">
-        <img src="https://img.shields.io/badge/SEND_TO_ME-FF3B3F?style=for-the-badge&logo=maildotru&logoColor=white" height="35"/>
-      </a>
-    </td>
-    <td width="40%" align="right" valign="middle">
-      <img src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15" width="90%" style="display: block; outline: none; border: none;">
+      </td>
+    <td width="45%" align="center">
+        <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matrix.svg" width="80" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coffinxp&layout=compact&theme=tokyonight&hide_border=false" width="90%" />
     </td>
   </tr>
 </table>
-
 ---
 <h2 id="present_status" style="color: #38C2FF;"> 📍 Present Status </h2>
 <table border="0" width="100%">
